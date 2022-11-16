@@ -1,5 +1,5 @@
 # ASIX1_M4UF1_DoItYourself_IkerLunaCruz
-# ASIX1_M4UF1A7_Selectores_CSS_IkerLunaCruz
+
 Regla nº1.
 - En el elemento body pondremos margen de 0%, con la fuente: font-family: 'EB Garamond', serif; y de color de fondo un rgb(202, 251, 251);.
 
