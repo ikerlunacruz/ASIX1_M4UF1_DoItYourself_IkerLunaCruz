@@ -7,7 +7,7 @@ Regla nº2.
 - Tambien en el elemento body tendremos que poner la fuente: font-family: 'EB Garamond', serif; y de color de fondo un rgb(202, 251, 251);.
 
 Regla nº3.
-- En el selector id para header que deberá de tener 100vh (vh=altura). Su posición tendra que estar en el centro. Y la medida del fondo (fot-size) tendrá que estar cubierta.
+- En el selector id para header que deberá de tener 100vh (vh=altura). Su posición tendra que estar en el centro. Y el background-size tendrá que estar cubierta.
 
 Regla nº4.
 - En el selector id para header1 deberemos de poner el color blanco. No deberá de tener margen. El relleno tendrá que ser de 0 y 20%. Y tendremos que poner el tamaño de fuente a 37px.
